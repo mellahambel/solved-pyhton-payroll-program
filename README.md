@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-pyhton-payroll-program
+<br>
+The Payroll Department keeps a list of employee information for each pay period in a text file. The format of each line of the file is the following: &lt;last name&gt; &lt;hours worked&gt; &lt;hourly wage&gt;Write a program that inputs a filename from the user and prints to the terminal a report of the wages paid to the employees for the given period.The report should be in tabular format with the appropriate header.Each line should contain:An employee’s nameThe hours workedThe wages paid for that period.An example of the program input and output is shown below:Enter the file name: data.txtName Hours Total PayLambert 34 357.00Osborne 22 137.50Giacometti 5 503.50
